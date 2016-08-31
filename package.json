@@ -1,6 +1,7 @@
 {
   "name": "ModulusDemoApp",
   "version": "0.0.1",
+  "main": "app.js",
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.x",
