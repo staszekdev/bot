@@ -1,0 +1,9 @@
+{
+  "name": "ModulusDemoApp",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.x",
+    "request": "^2.74.0"
+  }
+}
